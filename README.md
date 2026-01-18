@@ -2,8 +2,6 @@
 **Powered by AutoGen + OpenAI**
 
 
-🌐 **[View Live Application](https://ai-api-contract-designer.vercel.app/)**
-
 > **Transform product ideas into production-ready API contracts instantly. Describe your app, and watch 5 AI agents collaborate to design endpoints, schemas, and OpenAPI specs—in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -252,8 +250,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://ai-api-contract-designer.vercel.app/)
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
